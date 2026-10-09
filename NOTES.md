@@ -4,3 +4,4 @@
 - note 7: the checklist mirrors the test matrix (2026-10-09T23:18:41)
 - note 9: the checklist mirrors the test matrix (2026-10-09T23:18:55)
 - note 11: the checklist mirrors the test matrix (2026-10-09T23:19:10)
+- note 13: the sample command stays copy-pasteable (2026-10-09T23:19:24)
