@@ -1,2 +1,3 @@
 - note 1: keep the documented order (2026-10-09T23:17:57)
 - note 3: paths in examples stay relative (2026-10-09T23:18:11)
+- note 5: keep the documented order (2026-10-09T23:18:26)
