@@ -2,3 +2,4 @@
 - note 3: paths in examples stay relative (2026-10-09T23:18:11)
 - note 5: keep the documented order (2026-10-09T23:18:26)
 - note 7: the checklist mirrors the test matrix (2026-10-09T23:18:41)
+- note 9: the checklist mirrors the test matrix (2026-10-09T23:18:55)
