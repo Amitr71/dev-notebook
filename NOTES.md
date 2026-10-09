@@ -7,3 +7,4 @@
 - note 13: the sample command stays copy-pasteable (2026-10-09T23:19:24)
 - note 15: keep the documented order (2026-10-09T23:19:40)
 - note 17: keep the documented order (2026-10-09T23:19:55)
+- note 19: the sample command stays copy-pasteable (2026-10-09T23:20:10)
