@@ -6,3 +6,4 @@
 - note 11: the checklist mirrors the test matrix (2026-10-09T23:19:10)
 - note 13: the sample command stays copy-pasteable (2026-10-09T23:19:24)
 - note 15: keep the documented order (2026-10-09T23:19:40)
+- note 17: keep the documented order (2026-10-09T23:19:55)
