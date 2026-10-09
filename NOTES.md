@@ -11,3 +11,4 @@
 - note 21: the checklist mirrors the test matrix (2026-10-09T23:20:28)
 - note 23: the sample command stays copy-pasteable (2026-10-09T23:20:42)
 - note 25: paths in examples stay relative (2026-10-09T23:20:57)
+- note 27: review notes before tagging (2026-10-09T23:21:12)
